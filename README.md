@@ -1,1 +1,2 @@
-# Bright-light--Exercises
+# Bright-light-Exercises
+This respositry is basic SQL exercises
